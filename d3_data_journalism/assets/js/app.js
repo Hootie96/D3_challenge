@@ -88,7 +88,6 @@ function makeResponsive() {
             console.log(riskData);
             
     
-        
             
         chartGroup.append("text")
           .attr("transform", "rotate(-90)")
